@@ -66,7 +66,7 @@ int minutesInThreeDays = 3 * minutesInDay;
          float totalWeightBreakfastInKg = ( bananas + milk + iceCreamSundae + rawEggs ) / 1000F;
          system.out.println( totalWeightBreakfastInKg + " кг " );
         //Задача 7
-        system.out.println( "//Задача 7");
+        system.out.println( "// Задача 7");
         int totalLoseWeightKg = 7;
         int loseGrInADay = 250;
         int loseGrInADay2 = 500;
